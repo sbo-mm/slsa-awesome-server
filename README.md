@@ -1,5 +1,6 @@
 # SLSA Awesome Server
 [![SLSA 1](https://slsa.dev/images/gh-badge-level1.svg)](https://slsa.dev)
+[![SLSA 2](https://slsa.dev/images/gh-badge-level2.svg)](https://slsa.dev)
 
 Awesome Server written in Go used for SLSA exercises
 
